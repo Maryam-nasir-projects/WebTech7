@@ -1,0 +1,14 @@
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+
+.footer {
+  text-align: center;
+  color: #64748b;
+  font-size: 13px;
+}

@@ -1,0 +1,39 @@
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: black;
+  margin: 0;
+}
+
+h1 {
+  text-align: center;
+  color: #087f70;
+  margin-top: 40px;
+}
+
+.card {
+  background-color: white;
+  padding: 30px;
+  margin: 30px auto;
+  width: 280px;
+  text-align: center;
+  border-radius: 12px;
+  box-shadow: 0 3px 10px #ccc;
+}
+.card p {
+  white-space: nowrap;
+}
+
+.avatar {
+  background-color: #087f70;
+  color: white;
+  width: 65px;
+  height: 65px;
+  border-radius: 50%;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 22px;
+  font-weight: bold;
+}
