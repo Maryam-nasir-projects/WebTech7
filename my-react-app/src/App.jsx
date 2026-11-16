@@ -7,6 +7,8 @@ function App() {
     <div>
       <Header />
       <Card />
+      <Card />
+      <Card />
       <Footer />
     </div>
   );
